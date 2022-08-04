@@ -9,7 +9,7 @@ let numberOfPeople = Number(numberOfPeopleDiv.innerText)
 
 // ** Calculate the total bill per person **
 const calculateBill = () => {
-  // get bill from user input & convert it into a number
+    // get bill from user input & convert it into a number
     const bill = Number(billInput.value)
 
     // get the tip from user & convert it into a percentage (divide by 100)

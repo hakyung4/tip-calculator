@@ -4,14 +4,14 @@
 }
   
 body {
-    background: #8990ec;
+    background: #ccccde;
 }
   
 .wrapper {
     height: 525px;
     width: 360px;
     color: white;
-    background: #272639;
+    background: #090824;
     border-radius: 1rem;
     padding: 1.2rem;
     margin: 100px auto;
@@ -27,6 +27,7 @@ body {
   
 .title {
     font-weight: bold;
+    font-size: 20px;
     margin-bottom: 0.6rem;
 }
   
@@ -48,7 +49,7 @@ body {
 }
   
 .buttonContainer {
-    background: #8990ec;
+    background: #b3b5da;
     display: grid;
     place-items: center;
     width: 1.6rem;
